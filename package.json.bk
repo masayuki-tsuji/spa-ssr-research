@@ -1,0 +1,23 @@
+{
+  "name": "ssa-ssr-research",
+  "version": "1.0.0",
+  "description": "SPAとSSRについての調査レポジトリ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli": "^3.11.0"
+  },
+  "scripts": {
+    "vue": "vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masayuki0220/spa-ssr-research.git"
+  },
+  "author": "MasayukiTsuji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masayuki0220/spa-ssr-research/issues"
+  },
+  "homepage": "https://github.com/masayuki0220/spa-ssr-research#readme"
+}
